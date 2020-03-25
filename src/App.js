@@ -10,7 +10,7 @@ class App extends React.Component{
             people:[],
             personInput:"",
             step:0
-        };
+        }; 
 
         this.submit=this.submit.bind(this);
     }

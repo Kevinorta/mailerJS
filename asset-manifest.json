@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/mailerJs/static/css/main.a678e5ce.chunk.css",
+    "main.js": "/mailerJs/static/js/main.7c3d34e7.chunk.js",
+    "main.js.map": "/mailerJs/static/js/main.7c3d34e7.chunk.js.map",
+    "runtime-main.js": "/mailerJs/static/js/runtime-main.6c348912.js",
+    "runtime-main.js.map": "/mailerJs/static/js/runtime-main.6c348912.js.map",
+    "static/js/2.1c152f75.chunk.js": "/mailerJs/static/js/2.1c152f75.chunk.js",
+    "static/js/2.1c152f75.chunk.js.map": "/mailerJs/static/js/2.1c152f75.chunk.js.map",
+    "index.html": "/mailerJs/index.html",
+    "precache-manifest.0b46c6f0d9bb0e361fe9456ca0ab9cdf.js": "/mailerJs/precache-manifest.0b46c6f0d9bb0e361fe9456ca0ab9cdf.js",
+    "service-worker.js": "/mailerJs/service-worker.js",
+    "static/css/main.a678e5ce.chunk.css.map": "/mailerJs/static/css/main.a678e5ce.chunk.css.map",
+    "static/js/2.1c152f75.chunk.js.LICENSE": "/mailerJs/static/js/2.1c152f75.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6c348912.js",
+    "static/js/2.1c152f75.chunk.js",
+    "static/css/main.a678e5ce.chunk.css",
+    "static/js/main.7c3d34e7.chunk.js"
+  ]
+}
